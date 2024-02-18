@@ -1,0 +1,4 @@
+- Disks alert
+	- [ ] Alert for disk? (seems like scrub is set up inside proxmox but the email for alerts is not. Proxmox root email is set to cosc@salisbury.edu which I'm not sure if we have an email like that)
+- Wki repo
+	- [ ] Looks like that the ssh repo to pull down is set to his account. Not sure if I should change it to my account
