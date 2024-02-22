@@ -1,0 +1,6 @@
+- script to delete a user that hasn't logged in 2 years or longer
+	- [ ] Delete Directory
+	- [ ] Delete Ldap data
+- [ ] Ldap - record all the record for currently Ldap with mac address so that it will be easier to install next time
+- [ ] Get Parking Car moved
+- [ ] 

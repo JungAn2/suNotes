@@ -1,0 +1,6 @@
+- [ ] LDAP
+	- [ ] Scripts (add)
+	- [ ] How to setup LDAP (incase of failure)
+- [ ] FOREMAN
+- [ ] PUPPET
+- [ ] 
