@@ -1,0 +1,3 @@
+sddm
+task-desktop
+tasksel

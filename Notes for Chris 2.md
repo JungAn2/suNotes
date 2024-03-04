@@ -1,0 +1,12 @@
+- [ ] How vs code is setup
+- Vs code can only be installed with wget and running it. I don't see any process for that. Just package::code
+- didn't see package::code in debian package site
+- [ ] When adding packages to puppet
+- Does it automatically install dependency or do I have to add all the dependencies?
+- Example
+	- Cole wants maxima installed
+		- Dep: libc6 and etc
+		- Rec: gnuplot-x11 and etc
+		- Sug: maxima-doc and etc (probably not)
+- [ ] When installing foreman, did you had to have IT department exclude 443 port for you to install? tried to install local not on perdue server for testing purposes and it wouldn't let me do foreman-installer due to tcp not being able to make connection
+- [ ] 

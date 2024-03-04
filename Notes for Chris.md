@@ -1,17 +1,18 @@
 - Disks alert
-	- [ ] Alert for disk? (seems like scrub is set up inside proxmox but the email for alerts is not. Proxmox root email is set to cosc@salisbury.edu which I'm not sure if we have an email like that)
-	- [ ] Are hdd hot swappable
+	- [x] Alert for disk? (seems like scrub is set up inside proxmox but the email for alerts is not. Proxmox root email is set to cosc@salisbury.edu which I'm not sure if we have an email like that)
+	- [x] Are hdd hot swappable
 - Wki repo
-	- [ ] Looks like that the ssh repo to pull down is set to his account. Not sure if I should change it to my account
+	- [x] Looks like that the ssh repo to pull down is set to chris account. Not sure if I should change it to my account
 - Foreman
-	- [ ] What is the password for the GUI forman? It's not in the notes
+	- [x] What is the password for the GUI forman? It's not in the notes
 - Proxy
-	- [ ] Easy way to get to proxy server?
-		- Current step is ssh into one of the local computer in the cluster with ip of 10.249.43.xxx and then ssh into proxy my adding config and hslinux to it
-	- [ ] Easy way to get to Truenas
+	- [x] Easy way to get to proxy server?
+		- Current step is ssh into one of the local computer in the cluster with ip of 10.249.43.xxx and then ssh into proxy by adding config and hslinux to it
+	- [x] Easy way to get to Truenas ssh
 		- Current step is ssh into proxmox with ip ending in 125 and ssh root into truenas
 - What is laptop password / secure boot password?
 	- Do we have a laptop?
 	- secure boot - is it for the cluster computers or any computer that uses foreman to get the packages?
 	- What is host's password? Which host?
 - Where is the site-module for puppet configs?
+- NFS for maryland education system? Just simple knowledge if he has one
